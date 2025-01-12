@@ -12,11 +12,72 @@
     <script src="scripts/main.js" type="module" defer></script>
   </head>
   <body>
-    <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto
-      dignissimos ipsam, debitis perferendis accusamus magni beatae hic
-      voluptatem veniam iure deleniti assumenda voluptates doloremque velit
-      consequatur. Molestiae in praesentium aliquid.
-    </p>
+    <header class="header" data-js-header>
+      <div class="header__promo">
+        <div class="header__promo-inner container">
+          <a href="/" class="header__promo-link">
+            <span class="icon icon--yellow-arrow"
+              >Subscribe to our Newsletter For New & latest Blogs and
+              Resources</span
+            >
+          </a>
+        </div>
+      </div>
+      <div class="header__body">
+        <div class="header__body-inner container">
+          <a href="/" class="header__logo logo" title="home" aria-label="Home">
+            <img
+              src="./images/logo.svg"
+              alt=""
+              class="logo__image"
+              width="179"
+              height="50"
+            />
+          </a>
+          <div class="header__overlay" data-js-header-overlay>
+            <nav class="header__menu">
+              <ul class="header__menu-list">
+                <li class="header__menu-item">
+                  <a href="/" class="header__menu-link is-active">Home</a>
+                </li>
+                <li class="header__menu-item">
+                  <a href="/" class="header__menu-link">News</a>
+                </li>
+                <li class="header__menu-item">
+                  <a href="/" class="header__menu-link">Podcasts</a>
+                </li>
+                <li class="header__menu-item">
+                  <a href="/" class="header__menu-link">Resources</a>
+                </li>
+              </ul>
+            </nav>
+            <a href="/" class="header__contact-us-link button button--accent">
+              Contact Us
+            </a>
+          </div>
+          <button
+            class="header__burger-button burger-button visible-mobile"
+            aria-label="Open Menu"
+            title="Open Menu"
+            data-js-header-burger-button
+          >
+            <span class="burger-button__line"></span>
+            <span class="burger-button__line"></span>
+            <span class="burger-button__line"></span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio molestias
+      ipsa itaque et, quasi beatae ab ad voluptatibus, necessitatibus commodi
+      fuga expedita, quibusdam esse cupiditate libero perspiciatis voluptas sed
+      facere nostrum? Perferendis doloremque ut
+    </main>
+
+    <footer class="footer">
+      <h1>footer</h1>
+    </footer>
   </body>
 </html>
