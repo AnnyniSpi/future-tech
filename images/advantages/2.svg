@@ -1,0 +1,13 @@
+<svg width="50.000000" height="50.000000" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<clipPath id="clip226_11598">
+			<rect id="Icon" rx="0.000000" width="49.000000" height="49.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip226_11598)">
+		<path id="Rectangle 148" d="M25 35C25 40.52 29.47 45 35 45C40.52 45 45 40.52 45 35C45 29.47 40.52 25 35 25L25 25L25 35Z" fill="#FFD11A" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Rectangle 147" d="M25 15C25 9.47 20.52 5 15 5C9.47 5 5 9.47 5 15C5 20.52 9.47 25 15 25L25 25L25 15Z" fill="#FFD11A" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Subtract" d="M35 5C29.47 5 25 9.47 25 15L25 25L35 25C40.52 25 45 20.52 45 15C45 9.47 40.52 5 35 5ZM40 15C40 17.76 37.76 20 35 20C32.23 20 30 17.76 30 15C30 12.23 32.23 10 35 10C37.76 10 40 12.23 40 15Z" fill="#404040" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Subtract" d="M15 45C20.52 45 25 40.52 25 35L25 25L15 25C9.47 25 5 29.47 5 35C5 40.52 9.47 45 15 45ZM20 35C20 37.76 17.76 40 15 40C12.23 40 10 37.76 10 35C10 32.23 12.23 30 15 30C17.76 30 20 32.23 20 35Z" fill="#404040" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
