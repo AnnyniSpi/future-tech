@@ -31,4 +31,8 @@
     border-color: var(--color-accent);
     border-radius: rem(10);
   }
+
+  &--dark-gray {
+    background-color: var(--color-dark-10);
+  }
 }

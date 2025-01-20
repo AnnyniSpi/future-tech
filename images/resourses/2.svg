@@ -1,0 +1,11 @@
+<svg width="80.000000" height="80.000000" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<clipPath id="clip226_11889">
+			<rect id="Icon" rx="0.000000" width="79.000000" height="79.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip226_11889)">
+		<path id="Polygon 18" d="M40 8L40 72L12 56L12 24L40 8Z" fill="#FFD11A" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Polygon 19" d="M68 8L68 72L40 56L40 24L68 8Z" fill="#404040" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
